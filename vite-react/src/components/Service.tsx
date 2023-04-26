@@ -6,3 +6,5 @@ render() {
     
 }
 }
+
+export default Service
